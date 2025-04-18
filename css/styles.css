@@ -1,0 +1,36 @@
+﻿.my-section-item:hover {
+    color: var(--bs-light);
+    background-color: var(--bs-primary);
+    transition: all 0.4s;
+}
+
+.my-section-item-active {
+    color: var(--bs-light);
+    background-color: var(--bs-primary);
+}
+
+
+/*
+.carousel-control-prev-icon {
+    width: 50px;
+    height: 50px;
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.carousel-control-next-icon {
+    width: 50px;
+    height: 50px;
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.carousel-indicators li.active {
+    background-color: red;
+}*/
